@@ -1,0 +1,30 @@
+.score-card-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
+  height: 600px;
+  background-size: cover;
+  width: 90vw;
+}
+
+.trophy-image {
+  width: 90%;
+}
+
+.your-score-text {
+  color: #ffffff;
+}
+
+.your-score {
+  color: #ffffff;
+}
+
+.play-again-button {
+  background-color: #cf60c8;
+  border: none;
+}
+
+.reset-icon {
+}

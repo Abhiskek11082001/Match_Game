@@ -1,0 +1,12 @@
+.tabItem-container {
+ list-style-type: none;
+}
+
+.tabItem-button {
+  font-size: 22px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+
+}
